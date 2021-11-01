@@ -1,26 +1,38 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+<Header></Header>
+<Collections></Collections>
+<Roadmap></Roadmap>
+<Team></Team>
+<Footer></Footer>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Header from "./components/header.vue";
+import Collections from "./components/collections.vue";
+import Roadmap from "./components/roadmap.vue";
+import Team from "./components/team.vue";
+import Footer from "./components/footer.vue";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
-    HelloWorld
-  }
-}
+    Header,
+    Collections,
+    Roadmap,
+    Team,
+    Footer,
+  },
+};
 </script>
 
 <style>
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+}
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  background-color: #000;
 }
 </style>
