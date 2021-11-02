@@ -11,7 +11,7 @@
             <br>
             <p>
                  The guardians of the universe are robots that travel through a world called 
-                 "blockchain" in order to conquer the universe. They are <span> 8,8888 </span> and each of them is unique.
+                 "blockchain" in order to conquer the universe. They are <span> 8,888 </span> and each of them is unique.
             </p>
          </div>
      </div>
