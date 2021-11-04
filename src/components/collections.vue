@@ -3,7 +3,7 @@
      <div class="collec-bloc" >
          <div>
              <div data-aos-duration="1500" data-aos="fade-left" class="collec-img">
-                 <img src="../assets/simp5.png" alt="bot guardians">
+                 <img src="../assets/group.png" alt="bot guardians">
              </div>
          </div>
          <div data-aos="fade-right" data-aos-duration="1500" class="collec-text">
@@ -27,6 +27,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap");
 
 @media screen and (max-width: 734px) {
   .collec-bloc {
@@ -64,6 +65,7 @@ section {
 
 .collec-text h1 {
   text-transform: uppercase;
+  font-family: Orbitron !important;
 }
 
 .collec-bloc p,

@@ -1,9 +1,7 @@
 <template>
  <section>
     <div class="roadmap-title" >
-        <h1>
-          The staff only promises things they can do, everything you see below will be done. #Guardians mentality  
-        </h1>
+        <h1>ROADMAP</h1>
     </div>
      <div class="roadmap" >
          <div data-aos="fade-up">
@@ -23,6 +21,11 @@
             <p> You have all already played counter strike, halo, etc.. I miss it and I think you do too so we are already preparing a P2E game... We will inform you every time we make a progress. <strong> IT'S A BIG PROJECT !! </strong> </p>
          </div>
      </div>
+     <div>
+        <h2>
+          We only promise things we can do, everything you read above will be done. #GuardianMentality  
+        </h2>
+     </div>
  </section>
 </template>
 
@@ -35,6 +38,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap");
 
 @media screen and (max-width: 734px) {
   section {
@@ -53,9 +57,17 @@ section {
 
 .roadmap-title h1 {
   color: #fff;
+  font-family: "Orbitron", sans-serif;
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+h2 {
+  color: #fff;
   font-family: Roboto;
   text-align: center;
-  margin-bottom: 20px;
+  margin-top: 20px;
 }
 
 .roadmap {
@@ -69,7 +81,7 @@ section {
 .roadmap div {
   background: #fff;
   border-radius: 10px;
-  padding: 10px;
+  padding: 20px;
 }
 
 .roadmap div h1 {
@@ -80,5 +92,6 @@ section {
   margin-top: 20px;
   font-family: Roboto;
   text-align: center;
+  font-style: italic;
 }
 </style>

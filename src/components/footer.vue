@@ -45,7 +45,7 @@ footer img {
 footer h3 {
   color: #fff;
   margin: auto;
-  font-family: Roboto;
+  font-family: Orbitron;
   margin-top: 30px;
 }
 

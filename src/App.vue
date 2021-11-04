@@ -4,6 +4,7 @@
 <Roadmap></Roadmap>
 <Team></Team>
 <Footer></Footer>
+<Faq></Faq>
 </template>
 
 <script>
@@ -11,6 +12,7 @@ import Header from "./components/header.vue";
 import Collections from "./components/collections.vue";
 import Roadmap from "./components/roadmap.vue";
 import Team from "./components/team.vue";
+import Faq from "./components/faq.vue";
 import Footer from "./components/footer.vue";
 
 export default {
@@ -20,6 +22,7 @@ export default {
     Collections,
     Roadmap,
     Team,
+    Faq,
     Footer,
   },
 };
@@ -27,6 +30,7 @@ export default {
 
 <style>
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap");
 
 * {
   padding: 0;

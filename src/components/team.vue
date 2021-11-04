@@ -1,5 +1,6 @@
 <template>
  <section>
+    <h1>TEAM</h1>
      <div class="team">
          <div data-aos="fade-left" data-aos-duration="1500" >
              <img src="../assets/designer.png" alt="Team dev">
@@ -35,11 +36,19 @@ export default {
 }
 
 @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap");
 
 section {
   width: 90%;
   margin: auto;
   padding-top: 100px;
+}
+
+h1 {
+  color: #fff;
+  font-family: Orbitron;
+  text-align: center;
+  margin-bottom: 30px;
 }
 
 .team {
@@ -61,7 +70,7 @@ section {
 }
 
 .team div h3 {
-  font-family: Roboto;
+  font-family: Orbitron;
   color: #000;
   text-align: center;
   padding: 10px;
