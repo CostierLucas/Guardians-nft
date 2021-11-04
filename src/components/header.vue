@@ -4,16 +4,9 @@
         <div id="stars2"></div>
         <div id="stars3"></div>
         <div id="title">
-        <span>
-            27/11/2021, 
-        </span>
         <br />
         <span>
-             It's time. 
-        </span>
-        <br />
-        <span>
-          The <span> guardians of the soliverse </span> are back...
+          The guardians of the universe are coming soon...
         </span>
         </div>
       <nav>

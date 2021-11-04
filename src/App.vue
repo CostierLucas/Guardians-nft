@@ -31,6 +31,7 @@ export default {
 * {
   padding: 0;
   margin: 0;
+  overflow-x: hidden;
 }
 #app {
   background-color: #000;

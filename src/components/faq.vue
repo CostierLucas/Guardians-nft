@@ -31,12 +31,9 @@ export default {
 @media screen and (max-width: 734px) {
   .collec-bloc {
     grid-template-columns: 1fr !important;
-    grid-auto-rows: auto;
-    height: auto !important;
-    gap: 0px !important;
   }
   .collec-img img {
-    width: 100% !important;
+    width: 300px !important;
     margin: auto;
     text-align: center;
   }
