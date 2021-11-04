@@ -43,6 +43,19 @@ export default {
   nav img {
     margin: auto;
   }
+
+  header {
+    height: 90vh !important;
+  }
+
+  #title {
+    position: absolute;
+    top: 20% !important;
+    left: 0;
+    right: 0;
+    font-weight: 300;
+    font-size: 40px !important;
+  }
 }
 
 header {
@@ -605,7 +618,7 @@ header {
 
 #title {
   position: absolute;
-  top: 50%;
+  top: 40%;
   left: 0;
   right: 0;
   color: #fff;
@@ -614,8 +627,6 @@ header {
   font-weight: 300;
   font-size: 50px;
   letter-spacing: 10px;
-  margin-top: -60px;
-  padding-left: 10px;
 }
 
 #title span {

@@ -33,6 +33,7 @@ export default {
   margin: 0;
   overflow-x: hidden;
 }
+
 #app {
   background-color: #000;
 }

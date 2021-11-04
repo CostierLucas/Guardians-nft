@@ -35,6 +35,7 @@ export default {
     height: auto !important;
     gap: 0px !important;
   }
+
   .collec-img img {
     width: 100% !important;
     margin: auto;
