@@ -19,6 +19,7 @@ export default {
 <style scoped>
 footer {
   padding-top: 30px;
+  padding-bottom: 30px;
   display: grid;
   align-items: center;
 }
