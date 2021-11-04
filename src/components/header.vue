@@ -1,5 +1,17 @@
 <template>
   <header class="test" >
+      <nav>
+          <div class="nav-links">
+            <a class="hover-5 un" href=""><span>Who are they ?</span></a>
+            <a class="hover-5 deux" href=""><span> Roadmap </span></a>
+            <a class="hover-5 trois" href=""> <span> Team </span></a>
+            <img src="../assets/logo1.png" alt="Logo guardians" />
+            <a class="hover-5 quatre" href=""><span> discord </span></a>
+            <a class="hover-5 cinq" href="https://twitter.com/GOTSNFT"><span> Twitter </span></a>
+            <button class="six" disabled>Connect Wallet</button>
+          </div>
+      </nav>
+      <div class="bloc-text" >
         <div id="stars"></div>
         <div id="stars2"></div>
         <div id="stars3"></div>
@@ -9,17 +21,7 @@
           The guardians of the universe are coming soon...
         </span>
         </div>
-      <nav>
-        <div class="nav-links">
-          <a class="hover-5 un" href=""><span>Who are they ?</span></a>
-          <a class="hover-5 deux" href=""><span> Roadmap </span></a>
-          <a class="hover-5 trois" href=""> <span> Team </span></a>
-          <img src="../assets/logo1.png" alt="Logo guardians" />
-          <a class="hover-5 quatre" href=""><span> discord </span></a>
-          <a class="hover-5 cinq" href="https://twitter.com/GOTSNFT"><span> Twitter </span></a>
-          <button class="six" disabled>Connect Wallet</button>
-        </div>
-      </nav>
+      </div>
   </header>
 </template>
 
@@ -48,13 +50,7 @@ export default {
     height: 90vh !important;
   }
 
-  #title {
-    position: absolute;
-    top: 20% !important;
-    left: 0;
-    right: 0;
-    font-weight: 300;
-    font-size: 40px !important;
+  .bloc-text #title {
   }
 }
 
@@ -62,6 +58,16 @@ header {
   height: 100vh;
   background: radial-gradient(ellipse at bottom, #1b2735 0%, #090a0f 100%);
   overflow: hidden;
+}
+
+.bloc-text {
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.bloc-text #title {
+  margin-top: -300px;
 }
 
 #stars {
@@ -617,10 +623,6 @@ header {
 }
 
 #title {
-  position: absolute;
-  top: 40%;
-  left: 0;
-  right: 0;
   color: #fff;
   text-align: center;
   font-family: "lato", sans-serif;
