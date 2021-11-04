@@ -1,10 +1,13 @@
 <template>
-<Header></Header>
-<Collections></Collections>
-<Roadmap></Roadmap>
-<Team></Team>
-<Footer></Footer>
-<Faq></Faq>
+  <Loading :isLoading="isLoading" />
+  <main v-if="!isLoading">
+    <Header></Header>
+    <Collections></Collections>
+    <Roadmap></Roadmap>
+    <Team></Team>
+    <Faq></Faq>
+    <Footer></Footer>
+  </main>
 </template>
 
 <script>
@@ -14,6 +17,7 @@ import Roadmap from "./components/roadmap.vue";
 import Team from "./components/team.vue";
 import Faq from "./components/faq.vue";
 import Footer from "./components/footer.vue";
+import Loading from "./components/loading.vue";
 
 export default {
   name: "App",
@@ -24,6 +28,15 @@ export default {
     Team,
     Faq,
     Footer,
+    Loading,
+  },
+  data() {
+    return { isLoading: true };
+  },
+  mounted() {
+    setTimeout(() => {
+      this.isLoading = false;
+    }, 3000);
   },
 };
 </script>

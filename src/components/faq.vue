@@ -1,6 +1,6 @@
 <template>
  <section>
-
+    <h1>FAQ</h1>
  </section>
 </template>
 
@@ -12,5 +12,13 @@ export default {
 
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap");
+section {
+  margin-top: 100px;
+}
+
+h1 {
+  font-family: Orbitron;
+  color: #fff;
+  text-align: center;
+}
 </style>

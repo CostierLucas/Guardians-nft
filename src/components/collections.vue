@@ -60,6 +60,7 @@ section {
 
 .collec-text {
   background: #fff;
+  border: 5px solid #0c427c;
   padding: 30px;
 }
 
