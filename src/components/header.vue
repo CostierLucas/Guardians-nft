@@ -18,7 +18,7 @@
         <div id="title">
         <br />
         <span>
-          The guardians of the universe are coming soon...
+          The guardians of the soliverse are coming soon...
         </span>
         </div>
       </div>
