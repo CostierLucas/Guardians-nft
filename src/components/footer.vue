@@ -3,7 +3,13 @@
         <hr>
         <img src="../assets/guardians.gif" alt="">
         <h3>Join the guardians ! We need each of you ! </h3>
-        <div class="social media">
+        <div class="social">
+          <div>
+            <a href=""><img style="width:60px !important" src="https://img.icons8.com/color/96/000000/discord-logo.png"/></a>
+          </div>
+          <div>
+            <a href="https://twitter.com/GOTSNFT"><img style="width:60px !important" src="https://img.icons8.com/color/96/000000/twitter--v1.png"/></a>
+          </div>
         </div>
         <p class="copyright">&copy; 2021 GOTSNFT</p>
     </footer>
@@ -51,5 +57,12 @@ footer p {
 .copyright {
   margin-top: 30px;
   font-family: Roboto;
+}
+
+.social {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 30px;
 }
 </style>
