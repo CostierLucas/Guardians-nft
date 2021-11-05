@@ -767,7 +767,7 @@ button {
 }
 
 button:hover {
-  cursor: pointer;
+  cursor: not-allowed;
   background-color: #fff;
   color: #000;
   transition: 0.3s;
