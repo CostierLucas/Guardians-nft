@@ -253,7 +253,7 @@ header {
     142px 954px #fff, 1831px 544px #fff, 1008px 779px #fff, 1889px 257px #fff,
     1006px 1085px #fff, 428px 1043px #fff, 1915px 1585px #fff, 232px 1935px #fff,
     767px 706px #fff, 431px 334px #fff, 897px 15px #fff, 705px 146px #fff;
-  animation: animStar 50s linear infinite;
+  animation: animStar 20s linear infinite;
 }
 
 #stars:after {

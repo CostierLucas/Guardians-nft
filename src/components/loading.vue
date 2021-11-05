@@ -12,7 +12,7 @@ export default {
 </script>
 
 
-<style>
+<style scoped>
 .loader {
   height: 100%;
   background-color: #000;

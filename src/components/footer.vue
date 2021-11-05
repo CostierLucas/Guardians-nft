@@ -1,7 +1,7 @@
 <template>
     <footer>
         <hr>
-        <img src="../assets/guardians.gif" alt="">
+        <!-- <img src="../assets/guardians.gif" alt=""> -->
         <h3>Join the guardians ! We need each of you ! </h3>
         <div class="social">
           <div>
@@ -52,6 +52,7 @@ footer h3 {
 footer p {
   color: #fff;
   margin: auto;
+  text-align: center;
 }
 
 .copyright {
