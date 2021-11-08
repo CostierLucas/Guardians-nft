@@ -5,20 +5,48 @@
     </div>
      <div class="roadmap" >
          <div data-aos="fade-up">
-           <h1>15% Sold</h1>
-           <p>15 item airdrop</p>
+           <h1>01 - Pre-launch</h1>
+           <p>
+             Secure secondary market listings.
+            <br>
+            Secure howrare.is.
+            <br>
+            Robust multi-channel marketing campaign.
+            <br>
+            Team AMAs.
+            <br>
+            Create honorary Guardians for legends in the Solana ecosystem.
+           </p>
          </div>
          <div data-aos="fade-up">
-           <h1>45% Sold</h1>
-           <p>We will offer 2 floors to 45 owners and we will distribute 5000$ to the community through raffles, challenges, etc.. </p>
+           <h1>02 – Ready to Rumble</h1>
+           <p>
+             Mint 8,888 Guardians.
+             <br>
+             Guardian Gallery Launch.
+             <br>
+             Sweep floor on community voted project.
+             <br>
+             Creation of Community DAO wallet.
+          </p>
          </div>
          <div data-aos="fade-up">
-          <h1>75% Sold</h1>
-           <p>After 1 month, the follower with the highest level on discord = 10k</p>
+          <h1>03 – Locked & Loaded</h1>
+           <p>
+             Airdrop 8,888 Mercenaries to Guardian holders.
+             <br>
+             The Tree House opens - members only.
+            </p>
          </div>
          <div data-aos="fade-up">
-            <h1>100% Sold</h1>
-            <p> You have all already played counter strike, halo, etc.. I miss it and I think you do too so we are already preparing a P2E game... We will inform you every time we make a progress. <strong> IT'S A BIG PROJECT !! </strong> </p>
+            <h1>04 - The fight continues</h1>
+            <p>
+              Further actions and donations to be voted on by Guardian DAO.
+              <br>
+              Metaverse integration partners released.
+              <br>
+              Forbes, Coindesk, etc. releases on.
+            </p>
          </div>
      </div>
      <div>

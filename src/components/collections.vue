@@ -7,11 +7,10 @@
              </div>
          </div>
          <div data-aos="fade-right" data-aos-duration="1500" class="collec-text">
-            <h1>Who are they ?</h1>
+            <h1>Welcome to the soliverse</h1>
             <br>
             <p>
-                 The guardians of the universe are robots that travel through a world called 
-                 "blockchain" in order to conquer the universe. They are <span> 8,888 </span> and each of them is unique.
+                 The Guardians of the Soliverse is a collection of <span> 8,888 </span> uniquely generated 3D Guardians protecting the Solana Universe from dreadful mercenaries. Our foremost commitment is delivering value to our community members. In doing so, we have dedicated countless hours to ensuring the artwork and traits are top tier. In addition, there are unique benefits for being a member of the guardians' community.
             </p>
          </div>
      </div>
@@ -78,7 +77,7 @@ section {
 }
 
 .collec-text {
-  margin-top: 100px;
+  margin-top: 60px;
   text-align: center;
 }
 
