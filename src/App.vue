@@ -4,10 +4,7 @@
     <Header></Header>
     <Collections></Collections>
     <Roadmap></Roadmap>
-<<<<<<< HEAD
     <Future></Future>
-=======
->>>>>>> ad13d2c48f5867ac58181a207f927a973ac9c44d
     <Team></Team>
     <Faq></Faq>
     <Footer></Footer>
@@ -22,10 +19,7 @@ import Team from "./components/team.vue";
 import Faq from "./components/faq.vue";
 import Footer from "./components/footer.vue";
 import Loading from "./components/loading.vue";
-<<<<<<< HEAD
 import Future from "./components/future.vue";
-=======
->>>>>>> ad13d2c48f5867ac58181a207f927a973ac9c44d
 
 export default {
   name: "App",
@@ -33,10 +27,7 @@ export default {
     Header,
     Collections,
     Roadmap,
-<<<<<<< HEAD
     Future,
-=======
->>>>>>> ad13d2c48f5867ac58181a207f927a973ac9c44d
     Team,
     Faq,
     Footer,

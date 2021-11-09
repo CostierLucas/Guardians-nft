@@ -76,6 +76,7 @@ export default {
   }
 
   .img-sol{
+    margin-left: 0px !important;
     order: 1 !important;
   }
 }
@@ -149,6 +150,7 @@ section {
 
 .img-sol{
   order: 2;
+  margin-left: 100px;
 }
 
 </style>
