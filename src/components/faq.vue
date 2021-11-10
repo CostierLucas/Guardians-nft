@@ -14,7 +14,7 @@
         <div class="contentBx">
           <div class="label"><h3> How many guardians can I mint during initial sale? </h3> </div>
           <div class="content">
-            <p>Lot of them, if you are fast, no pre sales, no WL.</p>
+            <p>One per transaction.</p>
           </div>
         </div>
       </div>
