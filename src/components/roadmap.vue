@@ -35,7 +35,7 @@
            <p>
              Airdrop 8,888 Mercenaries to Guardian holders.
              <br>
-             The Tree House opens - members only.
+             The Soliverse opens - members only.
             </p>
          </div>
          <div data-aos="fade-up">
