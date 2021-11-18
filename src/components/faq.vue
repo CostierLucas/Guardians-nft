@@ -47,7 +47,7 @@
         <div class="contentBx">
           <div class="label"> <h3>Which wallets are supported ?</h3></div>
           <div class="content">
-            <p>Phantom, Solflemare.</p>
+            <p>Phantom, Solflare.</p>
           </div>
         </div>
       </div> 
