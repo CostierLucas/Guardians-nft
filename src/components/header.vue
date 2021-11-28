@@ -6,7 +6,7 @@
             <a class="hover-5 deux" href=""><span> Roadmap </span></a>
             <a class="hover-5 trois" href=""> <span> Team </span></a>
             <img src="../assets/logo1.png" alt="Logo guardians" />
-            <a class="hover-5 quatre" href="https://discord.gg/CpWQ9Ag6"><span> discord </span></a>
+            <a class="hover-5 quatre" href="https://discord.gg/e5rwytwrpq"><span> discord </span></a>
             <a class="hover-5 cinq" href="https://twitter.com/GOTSNFT"><span> Twitter </span></a>
             <button class="six" disabled>Connect Wallet</button>
           </div>
