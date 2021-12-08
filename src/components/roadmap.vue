@@ -28,24 +28,20 @@
              Sweep floor on community voted project.
              <br>
              Creation of Community DAO wallet.
+             <br>
+             Airdrop token for buyers.
           </p>
          </div>
          <div data-aos="fade-up">
           <h1>03 – Locked & Loaded</h1>
            <p>
              Airdrop 8,888 Mercenaries to Guardian holders.
-             <br>
-             The Soliverse opens - members only.
-            </p>
+          </p>
          </div>
          <div data-aos="fade-up">
             <h1>04 - The fight continues</h1>
             <p>
-              Further actions and donations to be voted on by Guardian DAO.
-              <br>
-              Metaverse integration partners released.
-              <br>
-              Forbes, Coindesk, etc. releases on.
+              Game Play to Earn , Guardians vs Mercenaries 👀
             </p>
          </div>
      </div>

@@ -6,7 +6,7 @@
         <div class="contentBx">
           <div class="label"><h3> How much does a guardian cost to mint ? </h3></div>
           <div class="content">
-            <p>It only costs 1.5 SOL to mint one.</p>
+            <p>0.6 SOL presale and 0.9 SOL official mint </p>
           </div>
         </div>
       </div>
@@ -47,7 +47,7 @@
         <div class="contentBx">
           <div class="label"> <h3>Which wallets are supported ?</h3></div>
           <div class="content">
-            <p>Phantom, Solflare.</p>
+            <p>- Phantom, Slope, Solflare and Sollet.</p>
           </div>
         </div>
       </div> 
