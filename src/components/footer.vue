@@ -5,7 +5,7 @@
         <h3>Join the guardians ! We need each of you ! </h3>
         <div class="social">
           <div>
-            <a href="https://discord.gg/CpWQ9Ag6"><img style="width:60px !important" src="https://img.icons8.com/color/96/000000/discord-logo.png"/></a>
+            <a href="https://discord.gg/kCtvefWsBu"><img style="width:60px !important" src="https://img.icons8.com/color/96/000000/discord-logo.png"/></a>
           </div>
           <div>
             <a href="https://twitter.com/GOTSNFT"><img style="width:60px !important" src="https://img.icons8.com/color/96/000000/twitter--v1.png"/></a>
