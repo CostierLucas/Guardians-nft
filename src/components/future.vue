@@ -16,7 +16,7 @@
         </div>
         <div>
             <h2>The Mercs are coming !</h2>
-            <p>The Mercenaries are coming, and it's going to be one hell of a fierce battle. After mint, the team will airdrop 8,888 uniquely generated Mercenaries(1 per Guardian) to Guardian holders. </p>
+            <p>The Mercenaries are coming, and it's going to be one hell of a fierce battle. After mint, the team will airdrop 3,333 uniquely generated Mercenaries(1 per Guardian) to Guardian holders. </p>
         </div>
       </div>
   </section>
